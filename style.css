@@ -1,0 +1,29 @@
+body
+{
+    background-size: cover;
+    background-position: center;
+    font-family: 'Lexend', sans-serif;
+}
+.heading
+{
+font-size: 23px;
+width: 100%;
+margin: 0px;
+color: white;
+background-color: #00A9BF;
+background-color: #00A9BF;
+}
+
+#status
+{
+font-size: 18px;
+}
+
+canvas
+{
+    border: #00A9BF;
+    border-radius: 10px;
+    border-width: 10px;
+    border-style: solid;
+    box-shadow: 10px 10px 10px  white;
+}
